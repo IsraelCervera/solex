@@ -1,0 +1,602 @@
+/* XL Device :1560px. */
+@media screen and (min-width: 1499px) {
+  .whychoiceus-tabs {
+    margin-left: -5.8%;
+  }
+}
+
+
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .about-bg {
+    padding-right: 50px;
+  }
+  .about-sicky-text {
+    left: -150px;
+    width: 430px;
+  }
+  .service-single {
+    padding: 30px;
+  }
+  .whychoiceus-tabs .nav-link {
+    padding-right: 20px;
+  }
+  .testimonials-img {
+    max-width: 140px;
+    max-height: 140px;
+    margin-right: 15px;
+  }
+  .testimonials-text h6 {
+    margin-bottom: 6px;
+  }
+  .counter-box {
+    padding-left: 60px;
+  }
+  .footer-widget.form-widget h3 {
+    font-size: 22px;
+  }
+  .footer-widget.form-widget .form-group {
+    margin-bottom: 0.875rem;
+  }
+  /* Homepage 2 */
+  .homepage-2 .hero-bottom {
+    margin-top: -100px;
+  }
+  .homepage-2 .form-container {
+    max-width: 930px;
+  }
+  .homepage-2 .rapti-nav .navbar-nav .nav-link {
+    padding: 23px 24px;
+  }
+  /* Homepage 3 */
+  .homepage-3 .rapti-nav .navbar-nav .nav-link {
+    padding: 12px 18px;
+    color: #FFF;
+  }
+  /* About Page */
+  .about-page .team-cont {
+    padding-left: 30px;
+  }
+  /* Blog Page */
+  .blog-cont ul li a {
+    font-size: 12px;
+  }
+  /* Service Details Page */
+  .business-planning-text h5 {margin-bottom: 10px;}
+  .business-planning-text li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  /* Portfolio Details Page */
+  .portfolio-details .post-category.feature {
+    margin-top: 50px;
+  }
+}
+
+
+/* Tablet & Mobile Layout: 768px. */
+
+@media only screen and (max-width: 991px) {
+  .header-bottom {
+    padding-top: 15px;
+  }
+  .mean-container a.meanmenu-reveal {
+    top: -25px;
+  }
+  .logo img {
+    width: 100px;
+  }
+  .header-bottom .logo {
+    position: relative;
+    z-index: 99;
+  }
+  .rapti-nav {
+    padding: 0;
+    border: 0;
+    margin-top: -80px;
+  }
+  .get-quote .btn {
+    border: 0;
+    border-radius: 0;
+  }
+  .header-top {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .header-bottom {
+    background: #FFF;
+  }
+  .section-padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .about-text {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .about-text .title {
+    margin-bottom: 0;
+  }
+  .about-left .btn {
+    margin-bottom: 30px;
+  }
+  .about-bg {
+    height: 350px;
+  }
+  .about-sicky-text {
+    left: -230px;
+  }
+  .section-title .title {
+    margin-bottom: 5px;
+  }
+  .whychoiceus-tabs {
+    padding: 30px;
+    padding-right: 10px;
+    margin-left: -4.5%;
+  }
+  .whychoiceus-tabs .nav-link {
+    padding-right: 20px;
+    font-size: 11px;
+  }
+  .why-choice-us .title {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .innerpage.about-page .counter-box,
+  .counter-box {
+    padding-left: 28px;
+  }
+  .footer .widget-1 img {
+    padding-bottom: 20px;
+  }
+  .footer-social-icon {
+    margin-top: 10px;
+  }
+  .footer .widget-2 h3 {
+    padding-bottom: 20px;
+  }
+  .footer-widget.widget-1 .inline-social-icon {
+    margin-top: 10px;
+  }
+  .copyright-menu ul li:first-child {
+    padding-left: 0;
+  }
+
+  /* Homepage 2 */
+  .homepage-2 .welcome-slider-area {
+    margin-top: 70px;
+  }
+  .homepage-2 .header-contact-info-box {
+    padding-top: 9px;
+    padding-bottom: 8px;
+    font-size: 12px;
+  }
+  .homepage-2 .header-contact-info i {
+    padding-right: 5px;
+  }
+  .homepage-2 .header-contact-info-box i:before {
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .homepage-2 .mean-container a.meanmenu-reveal {
+    top: -30px;
+    z-index: 9999;
+  }
+  .homepage-2 .about-text .title {
+    margin-bottom: 15px;
+  }
+  .homepage-2 .why-choice-us .section .row {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .homepage-2 .counter-box {
+    padding: 45px 15px 45px 15px;
+    text-align: center;
+  }
+  .homepage-2 .testimonials-text h5 {
+    margin-bottom: 0;
+  }
+  .homepage-2 .form-container {
+    max-width: 690px;
+    padding: 30px;
+  }
+  .homepage-2 .footer-widget h5 {
+    padding-bottom: 20px;
+    margin-bottom: 0;
+  }
+  .homepage-2 .footer-contact-info {
+    margin-bottom: 10px;
+  }
+  /* Homepage 3 */
+  .homepage-3 .mean-container a.meanmenu-reveal {
+    top: -30px;
+    color: #FFF;
+  }
+  .homepage-3 .mean-container a.meanmenu-reveal span {
+    background: #FFF none repeat scroll 0 0;
+  }
+  .homepage-3 .mean-container .mean-nav {
+    margin-top: 10px;
+  }
+  .homepage-3 .employee {
+    max-width: 620px;
+    padding: 50px;
+  }
+  .homepage-3 .subscriber-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  } 
+  .homepage-3 .subscribe-widget h5 {
+    margin-bottom: 10px;
+  }
+  .homepage-3 .footer-widget h5 {
+    padding-bottom: 10px;
+  }
+  /* About Page */
+  .about-page .team-cont {
+    padding-left: 30px;
+  }
+  /* Service Details Page */
+  .service-pills .nav-pills {
+    padding: 40px 10px;
+  }
+  .service-pills .nav-pills .nav-link {
+    padding: 10px;
+    font-size: 12px;
+  }
+  .business-planning-text h5 {
+    margin-top: 30px;
+  }
+  /* Blog Page */
+  .pagination-wrapper {
+    margin-bottom: 50px;
+  }
+  /* Blog Details Page */
+  .post-list-item li {
+    margin-bottom: 10px;
+    font-size: 13px;
+  }
+  .post-comments {
+    margin-top: 80px;
+  }
+  .post-comments .details-title {
+    margin-bottom: 40px;
+  }
+  /* Portfolio Page */
+  .portfolio-details .post-category.feature {
+    margin-top: 50px;
+  }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+  .section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .gray-bg-md {
+    background: #fbfbfb;
+  }
+  .owl-nav {
+    display: none;
+  }
+  .header-top {
+    padding-left: 10px;
+  }
+  .header-contact-info-box i:before {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .header-contact-info {
+    padding-left: 6px;
+  }
+  .header-contact-info h6 {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .header-contact-info p {
+    font-size: 10px;
+  }
+  .welcome-slider-area {
+    margin-top: 60px;
+  }
+  .main-banner {
+    height: 420px;
+  }
+  .slider-title-one {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .slider-title-two {
+    font-size: 24px;
+  }
+  .slider-title-p {
+    font-size: 14px;
+  }
+  .section-title .title,
+  .title {
+    font-size: 22px;
+  }
+  .about-left-text-box {
+    padding: 18px 0 12px;
+  }
+  .about-left-text-box h5 {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .about-bg {
+    padding-top: 30px;
+    padding-right: 0;
+    height: 330px;
+  }
+  .video-play-btn {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+  }
+  .video-play-btn i.flaticon-play-button:before {
+    font-size: 22px;
+  }
+  .about-sicky-text {
+    width: 90%;
+    left: 5%;
+    bottom: 30px;
+    padding: 30px;
+  }
+  .section .img-container {
+    width: 100%;
+  }
+  .section .img-container:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+  }
+  .portfolio .section-title p {
+    margin-bottom: 25px;
+  }
+  .service-section.section-padding {
+    padding-top: 90px;
+  }
+  .service-single h6 {
+    margin-top: 30px;
+  }
+  .homepage-3 .how-we-works p,
+  .homepage-3 .how-we-works h5,
+  .homepage-3 .how-we-works h2,
+  .whychoiceus-tabs .tab-pane ul li span.dark,
+  .whychoiceus-tabs .nav-link,
+  .why-choice-us p,
+  .why-choice-us .title {
+    color: #FFF;
+  }
+  .why-choice-us .section .row {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .whychoiceus-tabs .nav-link {
+    padding-right: 12px;
+  }
+  .innerpage.about-page .counter-box,
+  .counter-box {
+    padding: 30px;
+    text-align: center;
+  }
+  .portfolio-menu button {
+    padding: 0 14px;
+  }
+  .blog-cont {
+    padding: 30px 10px;
+  }
+  .blog-cont ul li a {
+    font-size: 11px;
+  }
+  .footer-widget h3 {
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .form-widget {
+    padding: 30px 10px;
+  }
+  .copyright-menu ul li {
+    padding-left: 10px;
+  }
+  .copyright-text p,
+  .copyright-menu ul li a {
+    font-size: 11px;
+  }
+  .footer-widget.form-widget button {
+    width: 100%;
+  }
+  /* Homepage 2 */
+  .homepage-2 .logo {
+    padding-top: 8px;
+  }
+  .homepage-2 .mean-container .mean-nav {
+    margin-top: 8px;
+  }
+  .homepage-2 .mean-container a.meanmenu-reveal {
+    top: -25px;
+  }
+  .homepage-2 .welcome-slider-area {
+    margin-top: 50px;
+  }
+  .homepage-2 .hero-bottom {
+    margin-top: 30px;
+  }
+  .homepage-2 .hero-bottom .service-single {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .homepage-2 .form-container {
+    max-width: 300px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  /* Homepage 3  */
+  .homepage-3 .how-we-works .section .row {
+    padding-top: 50px;
+    padding-bottom: 130px;
+  }
+  .homepage-3 .employee {
+    max-width: 300px;
+    padding: 30px 5px;
+  }
+  .homepage-3 .blog .post-date {
+    width: 70px;
+    height: 70px;
+    padding: 14px 0;
+  }
+  .homepage-3 .blog .post-date h2 {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .homepage-3 .blog .post-date h6 {
+    font-size: 12px;
+    font-weight: normal;
+  }
+  .homepage-3 .blog .post-date {
+    right: -10px;
+  }
+  .homepage-3 .blog .post-date.left {
+    left: -10px;
+  }
+  .homepage-3 .why-choice-us span.arrow {
+    padding-right: 5px;
+  }
+  .homepage-3 .why-choice-us .section .row {
+    padding-bottom: 150px;
+  }
+  .homepage-3 .subscribe-form input {
+    width: 65%;
+  }
+  .homepage-3 .subscribe-form button {
+    width: 35%;
+  }
+  .innerpage .main-banner-content h1 {
+    font-size: 40px;
+  }
+  .about-page .counter-section {
+    padding-top: 80px;
+  }
+  /*  Blog Details Page  */
+  .widget.latest-news .post-info h6,
+  .widget.latest-news .post-info p {
+    font-size: 12px;
+  }
+  .comments-box .date {
+    margin-top: 10px;
+  }
+  .blog-details-page .post-meta {
+    font-size: 12px;
+  }
+  .blog-details-page .post-category {
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  .blog-details-page .widget-right h3 {
+    font-size: 20px;
+  }
+  .blog-details-page .post-meta span {
+    padding-left: 0;
+    padding-right: 10px;
+  }
+  .blog-details .post-navs .btn {
+    width: 130px;
+  }
+  .post-comments {
+    margin-top: 50px;
+  }
+  .post-comments-form form .form-group {
+    margin-bottom: 15px;
+  }
+  .post-comments-form {
+    padding-top: 0;
+  }
+  .post-comments-form .details-title {
+    margin-bottom: 20px;
+  }
+  .blog-cont h5 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  /* Portfolio Details Page */
+  .portfolio-details .post-category {
+    margin-top: 30px;
+    margin-bottom: 0;
+  }
+  /* Contact Page */
+  .contact-info-box div h6 {
+    margin-bottom: 10px;
+  }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .section-title .title,
+  .title {
+    font-size: 24px;
+  }
+  .slider-title-one {
+    margin-bottom: 5px;
+  }
+  .slider-title-two {
+    font-size: 36px;
+  }
+  .about-bg {
+    height: 290px;
+  }
+  .blog-thum img {
+    width: 100%;
+  }
+  .main-banner[data-overlay="4"]::before {
+    opacity: 0.5;
+  }
+  .testimonial-default[data-overlay="4"]::before {
+    opacity: 0.8;
+  }
+  .counter-box h4 {
+    font-size: 32px;
+  }
+  .footer-widget h3 {
+    font-size: 20px;
+  }
+  /* Homepage 2 */
+  .homepage-2 .form-container {
+    max-width: 510px;
+  }
+
+  .homepage-3 .how-we-work-text-box, .homepage-3 .about-text-box, .homepage-2 .about-text-box {
+    padding-left: 50px;
+  }
+  .homepage-3 .how-we-work-text-box:before, .homepage-3 .about-text-box:before, .homepage-2 .about-text-box:before {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 16px;
+  }
+  .homepage-3 .employee {
+    max-width: 520px;
+  }
+  /* About Page */
+  .innerpage .main-banner {
+    height: 300px;
+  }
+  .main-banner-content {
+    padding-top: 50px;
+  }
+  .about-page .team-thumb img {
+    width: 100%;
+  }
+  .blog-details-page .post-meta span {
+    padding-left: 10px;
+  }
+}
